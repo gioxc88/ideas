@@ -33,6 +33,13 @@
 	1. [Causality Link](https://causalitylink.com/)
 	2. [Yewno](https://finance.yewno.com/)
 	3. [SparkBeyond](https://www.sparkbeyond.com/) (AI Provider to Mackenzie)
+	<br>
+
+* **Professional Traders**
+	1. [Trade Ideas](https://pro.trade-ideas.com/)
+	2. [Walnut Investments](https://walnut.ai/)
+	3. [Vise](https://vise.com/)
+	<br>
 	
 ## Thoughts
 - Retail: Incorporate Polling Platform to engage users?
